@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560132235127",
+    "project_id": "egzaminy-zawodowe-uy5xnx",
+    "storage_bucket": "egzaminy-zawodowe-uy5xnx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560132235127:android:efed5969dac2d17e77cb72",
+        "android_client_info": {
+          "package_name": "com.mycompany.egzaminyzawodowe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbTanLAsK-Hl4vZC8P0uMque_f4qaH95Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
